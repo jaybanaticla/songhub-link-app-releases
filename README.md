@@ -5,14 +5,14 @@
 RemoteHub (full name *Remote Hub for Songhub*, formerly "Songhub Link App") runs on an Android device (TV, TV box, tablet or phone)
 on the same Wi-Fi as your SongHub players. It finds every player on the network and gives **each player its own access code and QR**.
 
-Current version: **v0.2.0** · [Download the latest release](https://github.com/jaybanaticla/songhub-link-app-releases/releases/latest)
+Current version: **v0.2.1** · [Download the latest release](https://github.com/jaybanaticla/songhub-link-app-releases/releases/latest)
 
 | Phone | Android TV / large screen |
 |---|---|
 | <img src="docs/images/remotehub/phone-list-light.png" alt="Player list" width="260"> <img src="docs/images/remotehub/phone-detail-light.png" alt="A player's access code and QR" width="260"> | ![Player list and access code side by side on a TV](docs/images/remotehub/tv-detail-light.png) |
 
 > **Upgrading from v0.1.0 – v0.1.4?** Those builds were signed with a different key, so Android can't update them in place.
-> **Uninstall the old app once**, then install v0.2.0. (From v0.1.5 on, updates install normally.)
+> **Uninstall the old app once**, then install v0.2.1. (From v0.1.5 on, updates install normally.)
 
 ## Features
 
@@ -32,7 +32,7 @@ Current version: **v0.2.0** · [Download the latest release](https://github.com/
 
 ## How to use
 
-1. **Install** `remotehub-v0.2.0.apk` from the [releases page](https://github.com/jaybanaticla/songhub-link-app-releases/releases/latest)
+1. **Install** `remotehub-v0.2.1.apk` from the [releases page](https://github.com/jaybanaticla/songhub-link-app-releases/releases/latest)
    (allow "install unknown apps" for your browser or file manager if asked).
 2. On each player, open **SongHub**, turn on **Remote Broadcasting** and tap **Enter Karaoke**.
 3. Open **RemoteHub**. It shows a radar while it looks for players, then lists them. Pull down (or press ⟳) to scan again.
